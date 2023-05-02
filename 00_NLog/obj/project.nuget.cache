@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5zhXCydyJ3Qgo+OtRgj2nq+eBIYCROXk6G/LjcEhP0CKtaGxPqiy+qEKaf0JlEnpXZQfWdDn32DhOW9wuxviGw==",
+  "dgSpecHash": "wRxCVN2JWro2Xsj98WF2bsTefUxpY9A2ELI0fi1eXL27v6aTZM2T4gltcEeosE5AtyUi1IC80kPSFqKR4M+gLg==",
   "success": true,
-  "projectFilePath": "C:\\C#\\Bootcamp\\vscode\\Day25\\00_NLog\\00_NLog.csproj",
+  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day25\\00_NLog\\00_NLog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kinar\\.nuget\\packages\\nlog\\5.1.4\\nlog.5.1.4.nupkg.sha512"
   ],
