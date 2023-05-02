@@ -1,0 +1,17 @@
+c:\C#\Bootcamp\vscode\Day25\01_ImportConfig\bin\Debug\net7.0\01_ImportConfig.exe
+c:\C#\Bootcamp\vscode\Day25\01_ImportConfig\bin\Debug\net7.0\01_ImportConfig.deps.json
+c:\C#\Bootcamp\vscode\Day25\01_ImportConfig\bin\Debug\net7.0\01_ImportConfig.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day25\01_ImportConfig\bin\Debug\net7.0\01_ImportConfig.dll
+c:\C#\Bootcamp\vscode\Day25\01_ImportConfig\bin\Debug\net7.0\01_ImportConfig.pdb
+c:\C#\Bootcamp\vscode\Day25\01_ImportConfig\bin\Debug\net7.0\NLog.dll
+c:\C#\Bootcamp\vscode\Day25\01_ImportConfig\obj\Debug\net7.0\01_ImportConfig.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day25\01_ImportConfig\obj\Debug\net7.0\01_ImportConfig.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day25\01_ImportConfig\obj\Debug\net7.0\01_ImportConfig.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day25\01_ImportConfig\obj\Debug\net7.0\01_ImportConfig.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day25\01_ImportConfig\obj\Debug\net7.0\01_ImportConfig.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day25\01_ImportConfig\obj\Debug\net7.0\01_ImportConfig.csproj.CopyComplete
+c:\C#\Bootcamp\vscode\Day25\01_ImportConfig\obj\Debug\net7.0\01_ImportConfig.dll
+c:\C#\Bootcamp\vscode\Day25\01_ImportConfig\obj\Debug\net7.0\refint\01_ImportConfig.dll
+c:\C#\Bootcamp\vscode\Day25\01_ImportConfig\obj\Debug\net7.0\01_ImportConfig.pdb
+c:\C#\Bootcamp\vscode\Day25\01_ImportConfig\obj\Debug\net7.0\01_ImportConfig.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day25\01_ImportConfig\obj\Debug\net7.0\ref\01_ImportConfig.dll

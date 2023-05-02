@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "wc/VBzbYk9ICzE4QTpgpf+W3OTSTj+qK5M8b7sFZRBfPV9cKOxLMkL87Ta1anPx1Y3zMsytWNoVlxdtKq/nAdQ==",
+  "success": true,
+  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day25\\03_DiffLevel_DiffOut\\03_DiffLevel_DiffOut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kinar\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

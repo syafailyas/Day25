@@ -1,0 +1,17 @@
+c:\C#\Bootcamp\vscode\Day25\PerfMon_NLog\bin\Debug\net7.0\PerfMon_NLog.exe
+c:\C#\Bootcamp\vscode\Day25\PerfMon_NLog\bin\Debug\net7.0\PerfMon_NLog.deps.json
+c:\C#\Bootcamp\vscode\Day25\PerfMon_NLog\bin\Debug\net7.0\PerfMon_NLog.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day25\PerfMon_NLog\bin\Debug\net7.0\PerfMon_NLog.dll
+c:\C#\Bootcamp\vscode\Day25\PerfMon_NLog\bin\Debug\net7.0\PerfMon_NLog.pdb
+c:\C#\Bootcamp\vscode\Day25\PerfMon_NLog\bin\Debug\net7.0\NLog.dll
+c:\C#\Bootcamp\vscode\Day25\PerfMon_NLog\obj\Debug\net7.0\PerfMon_NLog.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day25\PerfMon_NLog\obj\Debug\net7.0\PerfMon_NLog.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day25\PerfMon_NLog\obj\Debug\net7.0\PerfMon_NLog.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day25\PerfMon_NLog\obj\Debug\net7.0\PerfMon_NLog.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day25\PerfMon_NLog\obj\Debug\net7.0\PerfMon_NLog.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day25\PerfMon_NLog\obj\Debug\net7.0\PerfMon_NLog.csproj.CopyComplete
+c:\C#\Bootcamp\vscode\Day25\PerfMon_NLog\obj\Debug\net7.0\PerfMon_NLog.dll
+c:\C#\Bootcamp\vscode\Day25\PerfMon_NLog\obj\Debug\net7.0\refint\PerfMon_NLog.dll
+c:\C#\Bootcamp\vscode\Day25\PerfMon_NLog\obj\Debug\net7.0\PerfMon_NLog.pdb
+c:\C#\Bootcamp\vscode\Day25\PerfMon_NLog\obj\Debug\net7.0\PerfMon_NLog.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day25\PerfMon_NLog\obj\Debug\net7.0\ref\PerfMon_NLog.dll

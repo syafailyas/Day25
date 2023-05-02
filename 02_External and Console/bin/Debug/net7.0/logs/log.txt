@@ -1,0 +1,8 @@
+2023-05-02 05:14:08,068 [1] INFO  Log4NetExample.Program - Program started.
+2023-05-02 05:14:08,076 [1] INFO  Log4NetExample.Program - Performing a calculation...
+2023-05-02 05:14:08,076 [1] INFO  Log4NetExample.Program - The result of the calculation is: 50
+2023-05-02 05:14:08,076 [1] INFO  Log4NetExample.Program - Program finished.
+2023-05-02 08:50:11,657 [1] INFO  Log4NetExample.Program - Program started.
+2023-05-02 08:50:11,664 [1] INFO  Log4NetExample.Program - Performing a calculation...
+2023-05-02 08:50:11,664 [1] INFO  Log4NetExample.Program - The result of the calculation is: 50
+2023-05-02 08:50:11,664 [1] INFO  Log4NetExample.Program - Program finished.

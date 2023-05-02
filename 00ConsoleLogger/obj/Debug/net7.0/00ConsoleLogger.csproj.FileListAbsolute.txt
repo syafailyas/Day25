@@ -1,0 +1,15 @@
+c:\C#\Bootcamp\vscode\Day25\00ConsoleLogger\bin\Debug\net7.0\00ConsoleLogger.exe
+c:\C#\Bootcamp\vscode\Day25\00ConsoleLogger\bin\Debug\net7.0\00ConsoleLogger.deps.json
+c:\C#\Bootcamp\vscode\Day25\00ConsoleLogger\bin\Debug\net7.0\00ConsoleLogger.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day25\00ConsoleLogger\bin\Debug\net7.0\00ConsoleLogger.dll
+c:\C#\Bootcamp\vscode\Day25\00ConsoleLogger\bin\Debug\net7.0\00ConsoleLogger.pdb
+c:\C#\Bootcamp\vscode\Day25\00ConsoleLogger\obj\Debug\net7.0\00ConsoleLogger.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day25\00ConsoleLogger\obj\Debug\net7.0\00ConsoleLogger.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day25\00ConsoleLogger\obj\Debug\net7.0\00ConsoleLogger.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day25\00ConsoleLogger\obj\Debug\net7.0\00ConsoleLogger.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day25\00ConsoleLogger\obj\Debug\net7.0\00ConsoleLogger.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day25\00ConsoleLogger\obj\Debug\net7.0\00ConsoleLogger.dll
+c:\C#\Bootcamp\vscode\Day25\00ConsoleLogger\obj\Debug\net7.0\refint\00ConsoleLogger.dll
+c:\C#\Bootcamp\vscode\Day25\00ConsoleLogger\obj\Debug\net7.0\00ConsoleLogger.pdb
+c:\C#\Bootcamp\vscode\Day25\00ConsoleLogger\obj\Debug\net7.0\00ConsoleLogger.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day25\00ConsoleLogger\obj\Debug\net7.0\ref\00ConsoleLogger.dll

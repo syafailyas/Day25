@@ -1,0 +1,17 @@
+c:\C#\Bootcamp\vscode\Day25\00NLog\bin\Debug\net7.0\00NLog.exe
+c:\C#\Bootcamp\vscode\Day25\00NLog\bin\Debug\net7.0\00NLog.deps.json
+c:\C#\Bootcamp\vscode\Day25\00NLog\bin\Debug\net7.0\00NLog.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day25\00NLog\bin\Debug\net7.0\00NLog.dll
+c:\C#\Bootcamp\vscode\Day25\00NLog\bin\Debug\net7.0\00NLog.pdb
+c:\C#\Bootcamp\vscode\Day25\00NLog\bin\Debug\net7.0\NLog.dll
+c:\C#\Bootcamp\vscode\Day25\00NLog\obj\Debug\net7.0\00NLog.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day25\00NLog\obj\Debug\net7.0\00NLog.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day25\00NLog\obj\Debug\net7.0\00NLog.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day25\00NLog\obj\Debug\net7.0\00NLog.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day25\00NLog\obj\Debug\net7.0\00NLog.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day25\00NLog\obj\Debug\net7.0\00NLog.csproj.CopyComplete
+c:\C#\Bootcamp\vscode\Day25\00NLog\obj\Debug\net7.0\00NLog.dll
+c:\C#\Bootcamp\vscode\Day25\00NLog\obj\Debug\net7.0\refint\00NLog.dll
+c:\C#\Bootcamp\vscode\Day25\00NLog\obj\Debug\net7.0\00NLog.pdb
+c:\C#\Bootcamp\vscode\Day25\00NLog\obj\Debug\net7.0\00NLog.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day25\00NLog\obj\Debug\net7.0\ref\00NLog.dll

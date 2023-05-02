@@ -1,0 +1,22 @@
+c:\C#\Bootcamp\vscode\Day25\02_External and Console\bin\Debug\net7.0\02_External and Console.exe
+c:\C#\Bootcamp\vscode\Day25\02_External and Console\bin\Debug\net7.0\02_External and Console.dll.config
+c:\C#\Bootcamp\vscode\Day25\02_External and Console\bin\Debug\net7.0\02_External and Console.deps.json
+c:\C#\Bootcamp\vscode\Day25\02_External and Console\bin\Debug\net7.0\02_External and Console.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day25\02_External and Console\bin\Debug\net7.0\02_External and Console.dll
+c:\C#\Bootcamp\vscode\Day25\02_External and Console\bin\Debug\net7.0\02_External and Console.pdb
+c:\C#\Bootcamp\vscode\Day25\02_External and Console\bin\Debug\net7.0\log4net.dll
+c:\C#\Bootcamp\vscode\Day25\02_External and Console\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+c:\C#\Bootcamp\vscode\Day25\02_External and Console\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+c:\C#\Bootcamp\vscode\Day25\02_External and Console\bin\Debug\net7.0\System.Security.Permissions.dll
+c:\C#\Bootcamp\vscode\Day25\02_External and Console\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+c:\C#\Bootcamp\vscode\Day25\02_External and Console\obj\Debug\net7.0\02_External and Console.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day25\02_External and Console\obj\Debug\net7.0\02_External and Console.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day25\02_External and Console\obj\Debug\net7.0\02_External and Console.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day25\02_External and Console\obj\Debug\net7.0\02_External and Console.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day25\02_External and Console\obj\Debug\net7.0\02_External and Console.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day25\02_External and Console\obj\Debug\net7.0\02_External and Console.csproj.CopyComplete
+c:\C#\Bootcamp\vscode\Day25\02_External and Console\obj\Debug\net7.0\02_External and Console.dll
+c:\C#\Bootcamp\vscode\Day25\02_External and Console\obj\Debug\net7.0\refint\02_External and Console.dll
+c:\C#\Bootcamp\vscode\Day25\02_External and Console\obj\Debug\net7.0\02_External and Console.pdb
+c:\C#\Bootcamp\vscode\Day25\02_External and Console\obj\Debug\net7.0\02_External and Console.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day25\02_External and Console\obj\Debug\net7.0\ref\02_External and Console.dll
