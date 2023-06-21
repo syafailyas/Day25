@@ -3,7 +3,7 @@ using System.IO;
 
 public class Logger
 {
-	private string logFilePath = "log.txt";
+	private string logFilePath = "./log.txt";
 
 	public void Log(string message)
 	{

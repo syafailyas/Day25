@@ -8,7 +8,7 @@ namespace NLogTest
 		
 		public void Connect()
 		{
-			logger.Trace("Connecting to robot arm");
+			logger.Debug("Connecting to robot arm");
 			// Code to connect to robot arm
 		}
 
@@ -32,7 +32,7 @@ namespace NLogTest
 
 		public void Disconnect()
 		{
-			logger.Trace("Disconnecting from robot arm");
+			logger.Info("Disconnecting from robot arm");
 			// Code to disconnect from robot arm
 		}
 	}

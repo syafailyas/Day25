@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Sj9KsX24Lvk20gUL35KQjpsuDMou71ztrqFIJUStfGw7tKPCuMTJL689jEU1O9e5IEOb9ZyETfGFWVWRX+BRA==",
+  "dgSpecHash": "/cr2pBmQ7rPpC1hT5vNHbHAgRZlpAwT4smy8emt14kaiHgBjOyONT+p3MJx2QgTO4tnLL/nI4T7k61eNqveBwA==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day25\\00NLog\\00NLog.csproj",
+  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day25\\00NLog\\RobotArmsNLog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kinar\\.nuget\\packages\\nlog\\5.1.4\\nlog.5.1.4.nupkg.sha512"
   ],

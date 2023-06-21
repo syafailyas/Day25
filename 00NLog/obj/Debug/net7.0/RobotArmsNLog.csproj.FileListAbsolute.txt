@@ -1,0 +1,17 @@
+c:\C#\Bootcamp\vscode\Day25\00NLog\bin\Debug\net7.0\RobotArmsNLog.exe
+c:\C#\Bootcamp\vscode\Day25\00NLog\bin\Debug\net7.0\RobotArmsNLog.deps.json
+c:\C#\Bootcamp\vscode\Day25\00NLog\bin\Debug\net7.0\RobotArmsNLog.runtimeconfig.json
+c:\C#\Bootcamp\vscode\Day25\00NLog\bin\Debug\net7.0\RobotArmsNLog.dll
+c:\C#\Bootcamp\vscode\Day25\00NLog\bin\Debug\net7.0\RobotArmsNLog.pdb
+c:\C#\Bootcamp\vscode\Day25\00NLog\bin\Debug\net7.0\NLog.dll
+c:\C#\Bootcamp\vscode\Day25\00NLog\obj\Debug\net7.0\RobotArmsNLog.csproj.AssemblyReference.cache
+c:\C#\Bootcamp\vscode\Day25\00NLog\obj\Debug\net7.0\RobotArmsNLog.GeneratedMSBuildEditorConfig.editorconfig
+c:\C#\Bootcamp\vscode\Day25\00NLog\obj\Debug\net7.0\RobotArmsNLog.AssemblyInfoInputs.cache
+c:\C#\Bootcamp\vscode\Day25\00NLog\obj\Debug\net7.0\RobotArmsNLog.AssemblyInfo.cs
+c:\C#\Bootcamp\vscode\Day25\00NLog\obj\Debug\net7.0\RobotArmsNLog.csproj.CoreCompileInputs.cache
+c:\C#\Bootcamp\vscode\Day25\00NLog\obj\Debug\net7.0\RobotArmsNLog.csproj.CopyComplete
+c:\C#\Bootcamp\vscode\Day25\00NLog\obj\Debug\net7.0\RobotArmsNLog.dll
+c:\C#\Bootcamp\vscode\Day25\00NLog\obj\Debug\net7.0\refint\RobotArmsNLog.dll
+c:\C#\Bootcamp\vscode\Day25\00NLog\obj\Debug\net7.0\RobotArmsNLog.pdb
+c:\C#\Bootcamp\vscode\Day25\00NLog\obj\Debug\net7.0\RobotArmsNLog.genruntimeconfig.cache
+c:\C#\Bootcamp\vscode\Day25\00NLog\obj\Debug\net7.0\ref\RobotArmsNLog.dll

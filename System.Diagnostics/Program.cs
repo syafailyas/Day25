@@ -6,7 +6,7 @@ namespace SystemDiagnostics
     {
         static void Main()
         {
-            string logPath = "mylog.log";
+            string logPath = "./mylog.log";
             Trace.Listeners.Add(new TextWriterTraceListener(logPath));
             Trace.AutoFlush = true;
 

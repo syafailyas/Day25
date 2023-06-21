@@ -1,0 +1,15 @@
+C:\C#\Bootcamp\vscode\Day25\SystemDiagnostics Debug\bin\Release\net7.0\SystemDiagnostics Debug.exe
+C:\C#\Bootcamp\vscode\Day25\SystemDiagnostics Debug\bin\Release\net7.0\SystemDiagnostics Debug.deps.json
+C:\C#\Bootcamp\vscode\Day25\SystemDiagnostics Debug\bin\Release\net7.0\SystemDiagnostics Debug.runtimeconfig.json
+C:\C#\Bootcamp\vscode\Day25\SystemDiagnostics Debug\bin\Release\net7.0\SystemDiagnostics Debug.dll
+C:\C#\Bootcamp\vscode\Day25\SystemDiagnostics Debug\bin\Release\net7.0\SystemDiagnostics Debug.pdb
+C:\C#\Bootcamp\vscode\Day25\SystemDiagnostics Debug\obj\Release\net7.0\SystemDiagnostics Debug.csproj.AssemblyReference.cache
+C:\C#\Bootcamp\vscode\Day25\SystemDiagnostics Debug\obj\Release\net7.0\SystemDiagnostics Debug.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Bootcamp\vscode\Day25\SystemDiagnostics Debug\obj\Release\net7.0\SystemDiagnostics Debug.AssemblyInfoInputs.cache
+C:\C#\Bootcamp\vscode\Day25\SystemDiagnostics Debug\obj\Release\net7.0\SystemDiagnostics Debug.AssemblyInfo.cs
+C:\C#\Bootcamp\vscode\Day25\SystemDiagnostics Debug\obj\Release\net7.0\SystemDiagnostics Debug.csproj.CoreCompileInputs.cache
+C:\C#\Bootcamp\vscode\Day25\SystemDiagnostics Debug\obj\Release\net7.0\SystemDiagnostics Debug.dll
+C:\C#\Bootcamp\vscode\Day25\SystemDiagnostics Debug\obj\Release\net7.0\refint\SystemDiagnostics Debug.dll
+C:\C#\Bootcamp\vscode\Day25\SystemDiagnostics Debug\obj\Release\net7.0\SystemDiagnostics Debug.pdb
+C:\C#\Bootcamp\vscode\Day25\SystemDiagnostics Debug\obj\Release\net7.0\SystemDiagnostics Debug.genruntimeconfig.cache
+C:\C#\Bootcamp\vscode\Day25\SystemDiagnostics Debug\obj\Release\net7.0\ref\SystemDiagnostics Debug.dll
