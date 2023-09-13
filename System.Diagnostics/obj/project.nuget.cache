@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/HebchKlwObLTBzTDqTTas1x6HdsDce/nMg93JCUGrjUbYb13fnojTAXgDI6vhVgFcPCat+FNfheHGqtLfHK7w==",
+  "dgSpecHash": "5l7S905DNRzLj8iEj8fHAEYGHipQP+SK70/mR7M3hOJ7u+LE3eJWdc1BoRW0ota9Qrkt9H95/aCsyzONSbfXMQ==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day25\\System.Diagnostics\\System.Diagnostics.csproj",
+  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\System.Diagnostics\\System.Diagnostics.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

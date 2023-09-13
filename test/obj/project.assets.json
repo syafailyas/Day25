@@ -344,11 +344,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day25\\test\\Log4NetRobotArms.csproj",
+      "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\test\\Log4NetRobotArms.csproj",
       "projectName": "Log4NetRobotArms",
-      "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day25\\test\\Log4NetRobotArms.csproj",
+      "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\test\\Log4NetRobotArms.csproj",
       "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day25\\test\\obj\\",
+      "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

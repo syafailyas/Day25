@@ -54,11 +54,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day25\\PerfMon_NLog\\PerfMon_NLog.csproj",
+      "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\PerfMon_NLog\\PerfMon_NLog.csproj",
       "projectName": "PerfMon_NLog",
-      "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day25\\PerfMon_NLog\\PerfMon_NLog.csproj",
+      "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\PerfMon_NLog\\PerfMon_NLog.csproj",
       "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day25\\PerfMon_NLog\\obj\\",
+      "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\PerfMon_NLog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -54,11 +54,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day25\\00_NLog\\00_NLog.csproj",
+      "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\00_NLog\\00_NLog.csproj",
       "projectName": "00_NLog",
-      "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day25\\00_NLog\\00_NLog.csproj",
+      "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\00_NLog\\00_NLog.csproj",
       "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day25\\00_NLog\\obj\\",
+      "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\00_NLog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

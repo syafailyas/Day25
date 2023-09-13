@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day25\\PerfMon_Sytem.Diagnostics\\PerfMon_Sytem.Diagnostics.csproj": {}
+    "c:\\CSharp\\Bootcamp\\vscode\\Day25\\PerfMon_Sytem.Diagnostics\\PerfMon_Sytem.Diagnostics.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day25\\PerfMon_Sytem.Diagnostics\\PerfMon_Sytem.Diagnostics.csproj": {
+    "c:\\CSharp\\Bootcamp\\vscode\\Day25\\PerfMon_Sytem.Diagnostics\\PerfMon_Sytem.Diagnostics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day25\\PerfMon_Sytem.Diagnostics\\PerfMon_Sytem.Diagnostics.csproj",
+        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\PerfMon_Sytem.Diagnostics\\PerfMon_Sytem.Diagnostics.csproj",
         "projectName": "PerfMon_Sytem.Diagnostics",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day25\\PerfMon_Sytem.Diagnostics\\PerfMon_Sytem.Diagnostics.csproj",
+        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\PerfMon_Sytem.Diagnostics\\PerfMon_Sytem.Diagnostics.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day25\\PerfMon_Sytem.Diagnostics\\obj\\",
+        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\PerfMon_Sytem.Diagnostics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

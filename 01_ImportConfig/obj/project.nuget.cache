@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KGfC/dOdkPn7bkJnq1GCLu1p2ZM/w1MWDlgUXKniV1he7z2SiOWyc3eLTShV1KjASorGvqEzrfb70LpOhCTUNw==",
+  "dgSpecHash": "5xq+dYXWg7z/25NKsuKi7iw9JVJwpy7FHxiXcH75RViPBwJU2n7+hjRsrgOeqGt7c8uivJHBr0x9s6maXDRPVQ==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day25\\01_ImportConfig\\01_ImportConfig.csproj",
+  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\01_ImportConfig\\01_ImportConfig.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kinar\\.nuget\\packages\\nlog\\5.1.4\\nlog.5.1.4.nupkg.sha512"
   ],

@@ -344,11 +344,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day25\\02_External and Console\\02_External and Console.csproj",
+      "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\02_External and Console\\02_External and Console.csproj",
       "projectName": "02_External and Console",
-      "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day25\\02_External and Console\\02_External and Console.csproj",
+      "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\02_External and Console\\02_External and Console.csproj",
       "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day25\\02_External and Console\\obj\\",
+      "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\02_External and Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day25\\01ConsoleLogger\\01ConsoleLogger.csproj": {}
+    "c:\\CSharp\\Bootcamp\\vscode\\Day25\\01ConsoleLogger\\01ConsoleLogger.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day25\\01ConsoleLogger\\01ConsoleLogger.csproj": {
+    "c:\\CSharp\\Bootcamp\\vscode\\Day25\\01ConsoleLogger\\01ConsoleLogger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day25\\01ConsoleLogger\\01ConsoleLogger.csproj",
+        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\01ConsoleLogger\\01ConsoleLogger.csproj",
         "projectName": "01ConsoleLogger",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day25\\01ConsoleLogger\\01ConsoleLogger.csproj",
+        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\01ConsoleLogger\\01ConsoleLogger.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day25\\01ConsoleLogger\\obj\\",
+        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\01ConsoleLogger\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

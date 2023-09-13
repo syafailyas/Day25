@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/p0GcjGgEb/laKiSRDaUx6u15R7k/9TeLtqVH8Ybpb3GwPJCm/D/ALZI9Q0KQkS9QEfUyVLQj34ppCK+iRoAAw==",
+  "dgSpecHash": "wYthSnOX3ewzIcMPung1je+e8gKqDELmaIi5UEWLzLzF4pzQFPdJFOwc1KmWsgeCgIAddkNeAOhYnY5d8bFVOw==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day25\\PerfMon_NLog\\PerfMon_NLog.csproj",
+  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\PerfMon_NLog\\PerfMon_NLog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kinar\\.nuget\\packages\\nlog\\5.1.4\\nlog.5.1.4.nupkg.sha512"
   ],

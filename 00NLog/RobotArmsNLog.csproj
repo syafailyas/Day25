@@ -8,8 +8,9 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="NLog" Version="5.1.4" />
-    <Content Include="nlog.config" />
     <Content Include="Program.cs" />
     <Content Include="RobotArms.cs" />
+    <Content Include="nlog.config" />
+    <Content Include="nlog.config" />
   </ItemGroup>
 </Project>

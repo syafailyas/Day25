@@ -1,18 +1,16 @@
-2023-05-02 11:37:16.1053 Info Program started. 
-2023-05-02 11:37:16.1272 Info The result of the calculation is: 50 
-2023-05-02 11:37:16.1272 Info Program finished. 
-2023-05-02 11:37:27.4379 Info Program started. 
-2023-05-02 11:37:27.4572 Fatal FATAL MESSAGE 
-2023-05-02 11:37:27.4572 Error ERROR MESSAGE 
-2023-05-02 11:37:27.4572 Info The result of the calculation is: 50 
-2023-05-02 11:37:27.4572 Info Program finished. 
-2023-05-02 11:38:25.3031 Info Program started. 
-2023-05-02 11:38:25.3222 Fatal FATAL MESSAGE 
-2023-05-02 11:38:25.3222 Error ERROR MESSAGE 
-2023-05-02 11:38:25.3222 Warn WARN MESSAGE 
-2023-05-02 11:39:10.2279 Info Program started. 
-2023-05-02 11:39:10.2471 Fatal FATAL MESSAGE 
-2023-05-02 11:39:10.2471 Error ERROR MESSAGE 
-2023-05-02 11:39:10.2471 Warn WARN MESSAGE 
-2023-05-02 11:39:10.2471 Info The result of the calculation is: 50 
-2023-05-02 11:39:10.2471 Info Program finished. 
+2023-09-13 14:01:39.0156 Info Program started. 
+2023-09-13 14:01:39.0446 Fatal FATAL MESSAGE 
+2023-09-13 14:01:39.0446 Info The result of the calculation is: 50 
+2023-09-13 14:01:39.0446 Info Program finished. 
+2023-09-13 14:03:50.4861 Info Program started. 
+2023-09-13 14:03:50.5092 Fatal FATAL MESSAGE 
+2023-09-13 14:03:50.5092 Info The result of the calculation is: 50 
+2023-09-13 14:03:50.5092 Info Program finished. 
+2023-09-13 14:04:20.6927 Info Program started. 
+2023-09-13 14:04:20.7119 Fatal FATAL MESSAGE 
+2023-09-13 14:04:20.7119 Info The result of the calculation is: 50 
+2023-09-13 14:04:20.7119 Info Program finished. 
+2023-09-13 14:04:31.6596 Info Program started. 
+2023-09-13 14:04:31.6795 Fatal FATAL MESSAGE 
+2023-09-13 14:04:31.6795 Info The result of the calculation is: 50 
+2023-09-13 14:04:31.6795 Info Program finished. 

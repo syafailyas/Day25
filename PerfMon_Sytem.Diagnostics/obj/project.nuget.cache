@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NRxpvizUpPIyYKZsjMsgMekgJOR+Hlpkia2nEUNJfdm099CFbd0dXAkDVu8GnGq14TEwsA+aUnv3TBCXPuC5qA==",
+  "dgSpecHash": "oO3tXv2R/YtXp8oO7llPK9S5EgjfQ8eFQQeyi5udCKQZZt+tsrITq47dnWBUfNLWDn1EgJ41MsH6+9+Nf5j4Xg==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day25\\PerfMon_Sytem.Diagnostics\\PerfMon_Sytem.Diagnostics.csproj",
+  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\PerfMon_Sytem.Diagnostics\\PerfMon_Sytem.Diagnostics.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -8,9 +8,9 @@ namespace NLogTest
 
 		static void Main()
 		{
-			var currentDirectory = Directory.GetCurrentDirectory();
-            var nlogConfigPath = Path.Combine(currentDirectory, "nlog.config");
-			LogManager.LoadConfiguration(nlogConfigPath);
+			//var currentDirectory = Directory.GetCurrentDirectory();
+            //var nlogConfigPath = Path.Combine(currentDirectory, "nlog.config");
+			//LogManager.LoadConfiguration(nlogConfigPath);
 
 			logger.Info("Starting robot arm program");
 

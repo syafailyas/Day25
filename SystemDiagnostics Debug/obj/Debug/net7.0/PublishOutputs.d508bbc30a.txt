@@ -1,5 +1,0 @@
-c:\C#\Bootcamp\vscode\Day25\SystemDiagnostics Debug\bin\Debug\net7.0\publish\SystemDiagnostics Debug.exe
-c:\C#\Bootcamp\vscode\Day25\SystemDiagnostics Debug\bin\Debug\net7.0\publish\SystemDiagnostics Debug.dll
-c:\C#\Bootcamp\vscode\Day25\SystemDiagnostics Debug\bin\Debug\net7.0\publish\SystemDiagnostics Debug.deps.json
-c:\C#\Bootcamp\vscode\Day25\SystemDiagnostics Debug\bin\Debug\net7.0\publish\SystemDiagnostics Debug.runtimeconfig.json
-c:\C#\Bootcamp\vscode\Day25\SystemDiagnostics Debug\bin\Debug\net7.0\publish\SystemDiagnostics Debug.pdb

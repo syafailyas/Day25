@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day25\\PerfMon_Sytem.Diagnostics\\PerfMon_Sytem.Diagnostics.csproj",
+      "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\PerfMon_Sytem.Diagnostics\\PerfMon_Sytem.Diagnostics.csproj",
       "projectName": "PerfMon_Sytem.Diagnostics",
-      "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day25\\PerfMon_Sytem.Diagnostics\\PerfMon_Sytem.Diagnostics.csproj",
+      "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\PerfMon_Sytem.Diagnostics\\PerfMon_Sytem.Diagnostics.csproj",
       "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day25\\PerfMon_Sytem.Diagnostics\\obj\\",
+      "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\PerfMon_Sytem.Diagnostics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

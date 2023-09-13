@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day25\\01Log4Net LogLevel\\01_Log4Net LogLevel.csproj": {}
+    "c:\\CSharp\\Bootcamp\\vscode\\Day25\\01Log4Net LogLevel\\01_Log4Net LogLevel.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day25\\01Log4Net LogLevel\\01_Log4Net LogLevel.csproj": {
+    "c:\\CSharp\\Bootcamp\\vscode\\Day25\\01Log4Net LogLevel\\01_Log4Net LogLevel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day25\\01Log4Net LogLevel\\01_Log4Net LogLevel.csproj",
+        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\01Log4Net LogLevel\\01_Log4Net LogLevel.csproj",
         "projectName": "01_Log4Net LogLevel",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day25\\01Log4Net LogLevel\\01_Log4Net LogLevel.csproj",
+        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\01Log4Net LogLevel\\01_Log4Net LogLevel.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day25\\01Log4Net LogLevel\\obj\\",
+        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\01Log4Net LogLevel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

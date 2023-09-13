@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day25\\03_DiffLevel_DiffOut\\03_DiffLevel_DiffOut.csproj": {}
+    "c:\\CSharp\\Bootcamp\\vscode\\Day25\\03_DiffLevel_DiffOut\\03_DiffLevel_DiffOut.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day25\\03_DiffLevel_DiffOut\\03_DiffLevel_DiffOut.csproj": {
+    "c:\\CSharp\\Bootcamp\\vscode\\Day25\\03_DiffLevel_DiffOut\\03_DiffLevel_DiffOut.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day25\\03_DiffLevel_DiffOut\\03_DiffLevel_DiffOut.csproj",
+        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\03_DiffLevel_DiffOut\\03_DiffLevel_DiffOut.csproj",
         "projectName": "03_DiffLevel_DiffOut",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day25\\03_DiffLevel_DiffOut\\03_DiffLevel_DiffOut.csproj",
+        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\03_DiffLevel_DiffOut\\03_DiffLevel_DiffOut.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day25\\03_DiffLevel_DiffOut\\obj\\",
+        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\03_DiffLevel_DiffOut\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

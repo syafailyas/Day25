@@ -13,5 +13,6 @@
   <ItemGroup>
     <PackageReference Include="NLog" Version="5.1.4" />
     <Content Include="nlog.config" />
+    <Content Include="bin\Debug\net7.0\nlog.config" />
   </ItemGroup>
 </Project>

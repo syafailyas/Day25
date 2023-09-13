@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V34ZuGa1Zwql+N158hYie0JtlFsrQ7h4Bx4nlsD9DiCE9FySQO/27Oz9mVkyp4pzlT+1cEJcXXs2hJ3vTOrlOw==",
+  "dgSpecHash": "uD4liZZhH+vciXGk3r+6NXxdJ7JeKRTTT6hB+tMpt3zIRXCKsBerv7iJ7xP+vsgVUH0gUG/2y12JURXP0H5SVA==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day25\\test\\Log4NetRobotArms.csproj",
+  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\test\\Log4NetRobotArms.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kinar\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
     "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",

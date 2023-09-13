@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F2aEcO4GVkDdrou0g0EQLhOMrEv+tKmjc4G2O7XUD0Q1+DeDDZ7Qm1eq5Qqi/HM0mORh3Ez0Ozj08un4TNaGaA==",
+  "dgSpecHash": "iKRCuaOlfk1MH9hapW2qg5U30l4q9yOFPLUomwOdEt0B/7pyxJwXLDODxGMNJckHk57CpvyOEM//ieMIwH/5kw==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day25\\02_External and Console\\02_External and Console.csproj",
+  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\02_External and Console\\02_External and Console.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kinar\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
     "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",

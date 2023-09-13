@@ -54,11 +54,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day25\\00NLog\\RobotArmsNLog.csproj",
+      "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\00NLog\\RobotArmsNLog.csproj",
       "projectName": "RobotArmsNLog",
-      "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day25\\00NLog\\RobotArmsNLog.csproj",
+      "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\00NLog\\RobotArmsNLog.csproj",
       "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day25\\00NLog\\obj\\",
+      "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\00NLog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

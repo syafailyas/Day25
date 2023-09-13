@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e6cCn8U4cBwHlluvShEpJb4/xGdt2C3gtoXkcAg18MlZqfZabrhVSDrQ8jgEW2rH2pbGHBS+LDwwdDqHn3acKQ==",
+  "dgSpecHash": "NPlQyMAHnJkeuoeMoHq+oryxMyMXGHN1kEt1Mm40H/xjQrnTIZCs4MLYRxx5IDyfcstCuwJrtuOc08JX+pntEw==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day25\\00ConsoleLogger\\00ConsoleLogger.csproj",
+  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\00ConsoleLogger\\00ConsoleLogger.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

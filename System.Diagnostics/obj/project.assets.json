@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\Day25\\System.Diagnostics\\System.Diagnostics.csproj",
+      "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\System.Diagnostics\\System.Diagnostics.csproj",
       "projectName": "System.Diagnostics",
-      "projectPath": "C:\\C#\\Bootcamp\\vscode\\Day25\\System.Diagnostics\\System.Diagnostics.csproj",
+      "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\System.Diagnostics\\System.Diagnostics.csproj",
       "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\Bootcamp\\vscode\\Day25\\System.Diagnostics\\obj\\",
+      "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\System.Diagnostics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

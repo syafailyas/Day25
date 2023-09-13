@@ -54,11 +54,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day25\\01_ImportConfig\\01_ImportConfig.csproj",
+      "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\01_ImportConfig\\01_ImportConfig.csproj",
       "projectName": "01_ImportConfig",
-      "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day25\\01_ImportConfig\\01_ImportConfig.csproj",
+      "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\01_ImportConfig\\01_ImportConfig.csproj",
       "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day25\\01_ImportConfig\\obj\\",
+      "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\01_ImportConfig\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

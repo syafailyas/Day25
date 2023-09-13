@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L+rP/+r5pxF9m/M7v4uHwv4JN3DrrPsMqwpoBplZdscUuDSedK4Y+sK6KnryWXu2aYeVTqjXi8xG9S4qf5fmhw==",
+  "dgSpecHash": "c+KFOJemxJC1/aUFm1+A1wWmvx5reGhRyJJckT99KX6gzurzi4Y9VEZjj+1z4c8y/8Ld7BLmJ2eYjFDgpCnlzw==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day25\\PerformanceMonitoring\\PerformanceMonitoring.csproj",
+  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\PerformanceMonitoring\\PerformanceMonitoring.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kinar\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
     "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",

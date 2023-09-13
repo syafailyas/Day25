@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wc/VBzbYk9ICzE4QTpgpf+W3OTSTj+qK5M8b7sFZRBfPV9cKOxLMkL87Ta1anPx1Y3zMsytWNoVlxdtKq/nAdQ==",
+  "dgSpecHash": "rEa1C1ZMsOpthkCDqJMSRR8jD1aDUS1ykGLijdEl5iBJojoSb9pmoShUzB+zrkxonjyaOLdFhWrjqpsqORKp3A==",
   "success": true,
-  "projectFilePath": "c:\\C#\\Bootcamp\\vscode\\Day25\\03_DiffLevel_DiffOut\\03_DiffLevel_DiffOut.csproj",
+  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\03_DiffLevel_DiffOut\\03_DiffLevel_DiffOut.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kinar\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
     "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",

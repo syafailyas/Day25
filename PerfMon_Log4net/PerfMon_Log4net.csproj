@@ -10,5 +10,6 @@
     <PackageReference Include="log4net" Version="2.0.15" />
     <Content Include="Program.cs" />
     <Content Include="log4net.config" />
+    <Content Include="mylog.log" />
   </ItemGroup>
 </Project>
