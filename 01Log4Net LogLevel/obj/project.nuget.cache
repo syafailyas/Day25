@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YO7tXql14eVatWFYl+FKDwzps83eykJEUbhAD++7q0SXWrqiaelMMNJ4dVWU78ScgJdPxUvXau6Reren9bt9eg==",
+  "dgSpecHash": "MangpwwoSX9xfarJU0sgJ2uGJmyyKIttK5RoAIpelGD1n75t+S56iSUEBeXICsBF+1HlXVStATlTioEsBbWR/Q==",
   "success": true,
-  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\01Log4Net LogLevel\\01_Log4Net LogLevel.csproj",
+  "projectFilePath": "C:\\CSharp\\Bootcamp\\vscode\\Day25\\01Log4Net LogLevel\\01_Log4Net LogLevel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kinar\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
     "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",

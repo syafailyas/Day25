@@ -16,16 +16,16 @@ namespace NLogTest
 
 			int i = 0;
 			RobotArm arm = new RobotArm();
-			while (i < 10000)
-			{
-				arm.Connect();
-				arm.MoveTo(0, 0, 0);
-				arm.Grab();
-				arm.MoveTo(10, 10, 10);
-				arm.Release();
+			// while (i < 10000)
+			// {
+			// 	arm.Connect();
+			// 	arm.MoveTo(0, 0, 0);
+			// 	arm.Grab();
+			// 	arm.MoveTo(10, 10, 10);
+			// 	arm.Release();
 				arm.Disconnect();
 				i++;
-			}
+			//}
 
 			logger.Info("Robot arm program finished");
 		}

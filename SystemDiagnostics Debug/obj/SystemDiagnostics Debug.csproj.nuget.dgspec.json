@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\CSharp\\Bootcamp\\vscode\\Day25\\SystemDiagnostics Debug\\SystemDiagnostics Debug.csproj": {}
+    "C:\\CSharp\\Bootcamp\\vscode\\Day25\\SystemDiagnostics Debug\\SystemDiagnostics Debug.csproj": {}
   },
   "projects": {
-    "c:\\CSharp\\Bootcamp\\vscode\\Day25\\SystemDiagnostics Debug\\SystemDiagnostics Debug.csproj": {
+    "C:\\CSharp\\Bootcamp\\vscode\\Day25\\SystemDiagnostics Debug\\SystemDiagnostics Debug.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\SystemDiagnostics Debug\\SystemDiagnostics Debug.csproj",
+        "projectUniqueName": "C:\\CSharp\\Bootcamp\\vscode\\Day25\\SystemDiagnostics Debug\\SystemDiagnostics Debug.csproj",
         "projectName": "SystemDiagnostics Debug",
-        "projectPath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\SystemDiagnostics Debug\\SystemDiagnostics Debug.csproj",
+        "projectPath": "C:\\CSharp\\Bootcamp\\vscode\\Day25\\SystemDiagnostics Debug\\SystemDiagnostics Debug.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\SystemDiagnostics Debug\\obj\\",
+        "outputPath": "C:\\CSharp\\Bootcamp\\vscode\\Day25\\SystemDiagnostics Debug\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

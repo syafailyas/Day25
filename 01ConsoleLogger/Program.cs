@@ -12,6 +12,7 @@ public class Logger
 			writer.WriteLine($"{DateTime.Now} - {message}");
 		}
 	}
+	
 }
 
 public static class myProgram
