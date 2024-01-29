@@ -5,14 +5,20 @@ public class Logger
 {
 	private string logFilePath = "./log.txt";
 
-	public void Log(string message)
+	public void Info(string message)
 	{
 		using (StreamWriter writer = new StreamWriter(logFilePath, true))
 		{
-			writer.WriteLine($"{DateTime.Now} - {message}");
+			writer.WriteLine($"{DateTime.Now} - Info- {message}");
 		}
 	}
-	
+		public void Warning(string message)
+	{
+		using (StreamWriter writer = new StreamWriter(logFilePath, true))
+		{
+			writer.WriteLine($"{DateTime.Now} - Info- {message}");
+		}
+	}
 }
 
 public static class myProgram
@@ -20,7 +26,8 @@ public static class myProgram
 	static void Main() 
 	{
 		Logger logger = new Logger();
-		logger.Log("Starting the program...");
-		logger.Log("Program completed.");
+		logger.Info("Starting the program...");
+		logger.Warning("Program variable not suitable");
+		logger.Info("Program completed.");
 	}
 }

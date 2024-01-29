@@ -12,21 +12,38 @@ partial class Program
 		
 		var serviceProvider = serviceCollection.BuildServiceProvider();
 
-		var player = serviceProvider.GetRequiredService<IPlayer>();
-		var board = serviceProvider.GetRequiredService<IBoard>();
-		var logger = serviceProvider.GetRequiredService<ILogger<GameController>>();
-		var game = new GameController(player, board, logger);
+		GameController game = serviceProvider.GetRequiredService<GameController>();
 	}
+
 
 	private static void ConfigureServices(IServiceCollection services)
 	{
 		services.AddLogging(logBuilder =>
 		{
 			logBuilder.ClearProviders(); 
-			logBuilder.SetMinimumLevel(LogLevel.Trace);
+			logBuilder.SetMinimumLevel(LogLevel.Information);
 			logBuilder.AddNLog("nlog.config");
 		});
-		services.AddTransient<IPlayer>(provider => new Player("player1"));
-		services.AddTransient<IBoard>(provider => new Board(2));
+		services.AddTransient<IPlayer>(provider => PlayerFactory.GetPlayer());
+		services.AddTransient<IBoard>(provider => new Board(2) 
+		{
+			name = "yanto"
+		});
+		services.AddTransient<GameController>();
 	}
 }
+
+	public class PlayerFactory
+	{
+		static int counter = -1;
+		static Player[] p =
+		{
+			new Player("test"),
+			new Player("test3")
+		};
+		public static Player GetPlayer() 
+		{
+			counter++;
+			return p[counter];
+		}
+	}

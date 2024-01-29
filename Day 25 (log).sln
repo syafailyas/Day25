@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_ImportConfig", "01_Impor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameController", "GameController\GameController.csproj", "{0F4A020B-6F5C-43AB-BBE0-C3962FA221FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{A645429B-038E-4F21-BE9E-2F4ACF514A92}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -228,6 +230,18 @@ Global
 		{0F4A020B-6F5C-43AB-BBE0-C3962FA221FD}.Release|x64.Build.0 = Release|Any CPU
 		{0F4A020B-6F5C-43AB-BBE0-C3962FA221FD}.Release|x86.ActiveCfg = Release|Any CPU
 		{0F4A020B-6F5C-43AB-BBE0-C3962FA221FD}.Release|x86.Build.0 = Release|Any CPU
+		{A645429B-038E-4F21-BE9E-2F4ACF514A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A645429B-038E-4F21-BE9E-2F4ACF514A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A645429B-038E-4F21-BE9E-2F4ACF514A92}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A645429B-038E-4F21-BE9E-2F4ACF514A92}.Debug|x64.Build.0 = Debug|Any CPU
+		{A645429B-038E-4F21-BE9E-2F4ACF514A92}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A645429B-038E-4F21-BE9E-2F4ACF514A92}.Debug|x86.Build.0 = Debug|Any CPU
+		{A645429B-038E-4F21-BE9E-2F4ACF514A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A645429B-038E-4F21-BE9E-2F4ACF514A92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A645429B-038E-4F21-BE9E-2F4ACF514A92}.Release|x64.ActiveCfg = Release|Any CPU
+		{A645429B-038E-4F21-BE9E-2F4ACF514A92}.Release|x64.Build.0 = Release|Any CPU
+		{A645429B-038E-4F21-BE9E-2F4ACF514A92}.Release|x86.ActiveCfg = Release|Any CPU
+		{A645429B-038E-4F21-BE9E-2F4ACF514A92}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{AB8D8058-ECEF-43DD-B4FD-384C9BB44CFE} = {FB2A1CFA-872F-40DB-A18D-8D10EBC83008}

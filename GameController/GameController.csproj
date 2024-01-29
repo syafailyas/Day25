@@ -25,4 +25,9 @@
     <Content Include="Program copy.cs" />
     <Content Include="bin\Debug\net7.0\log-file.json" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="nlog.config">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+</ItemGroup>
 </Project>

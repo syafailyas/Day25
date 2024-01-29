@@ -1,5 +1,4 @@
 using Microsoft.Extensions.Logging;
-using NLog;
 using NLog.Extensions.Logging;
 using MyGame;
 
@@ -9,11 +8,11 @@ partial class Program
 	{
 		IPlayer player = new Player("player1");
 		IBoard board = new Board(2);
-		var loggerFactory = LoggerFactory.Create(builder =>
+		var loggerFactory = LoggerFactory.Create(b =>
 					{
-						builder.ClearProviders();
-						builder.SetMinimumLevel(Microsoft.Extensions.Logging.LogLevel.Trace);
-						builder.AddNLog("nlog.config");
+						b.ClearProviders();
+						b.SetMinimumLevel(LogLevel.Information);
+						b.AddNLog("nlog.config");
 					});
 		ILogger<GameController> logger = loggerFactory.CreateLogger<GameController>();
 		GameController game = new GameController(player, board, logger);

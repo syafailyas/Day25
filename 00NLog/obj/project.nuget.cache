@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "FsUTOy+D4suF9j4OcLT2J5gZ4e/IZsHkq3X2EUiz/kM8s1gapGmZcEBVTy6u4piosduYot1SEZSsWk8TaFYYcQ==",
+  "dgSpecHash": "usy4dzs3VeIO6jL5jmd46dZnV/vHAn/p7c4KhsueiJ9tEOs+HkcXQK/BYfNQ9lg2A5E5B6UwI7O5oBhXbQr4Vw==",
   "success": true,
-  "projectFilePath": "c:\\CSharp\\Bootcamp\\vscode\\Day25\\00NLog\\RobotArmsNLog.csproj",
+  "projectFilePath": "C:\\CSharp\\Bootcamp\\vscode\\Day25\\00NLog\\RobotArmsNLog.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\kinar\\.nuget\\packages\\nlog\\5.1.4\\nlog.5.1.4.nupkg.sha512"
+    "C:\\Users\\kinar\\.nuget\\packages\\nlog\\5.1.4\\nlog.5.1.4.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
   ],
   "logs": []
 }

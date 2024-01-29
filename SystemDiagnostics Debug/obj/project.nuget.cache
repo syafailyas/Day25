@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "oLLozFt5AMJqN4zMFNyntAKWlL2riB4CDmAxZPrt9ghp1ib+TYPSifY8wNwUjkex2gWTMBSOdCIAza6mGk+epQ==",
+  "dgSpecHash": "xjRBJ8KSqS7/ym3in/a1SHZ80uXOz4NmvnKGNXtYUVwZUWQpsKZeY2AcEVLJPeazh+iEJP6CXf0px7qnv9GBEQ==",
   "success": true,
   "projectFilePath": "C:\\CSharp\\Bootcamp\\vscode\\Day25\\SystemDiagnostics Debug\\SystemDiagnostics Debug.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

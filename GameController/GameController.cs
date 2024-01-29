@@ -1,7 +1,4 @@
 using Microsoft.Extensions.Logging;
-using System.Collections.Generic;
-using System.Linq;
-using System;
 
 namespace MyGame
 {
@@ -20,7 +17,7 @@ namespace MyGame
 			};
 			_board = board;
 			_log = log;
-			_log?.LogInformation("GameController initialized for player: {@Player}", player);
+			_log?.LogInformation("GameController initialized for player: {Player}", player);
 		}
 
 		public bool AddCards(IPlayer player, params ICard[] cards)
@@ -33,11 +30,11 @@ namespace MyGame
 
 			foreach (var card in cards)
 			{
-				_log?.LogTrace("Adding card {Card} to player {Player}.", card, player);
+				_log?.LogInformation("Adding card {Card} to player {Player}.", card, player);
 				playerCards.Add(card);
 				ChangeCardStatus(card, CardStatus.OnPlayer);
 			}
-			
+
 			_log?.LogInformation("Added {CardCount} cards to player {Player}.", cards.Length, player);
 			return true;
 		}
@@ -53,11 +50,13 @@ namespace MyGame
 			return _players[player];
 		}
 
+		//Early Return
 		public bool RemoveCard(IPlayer player, ICard card)
 		{
+			_log?.LogInformation("Remove card method called with {Card} and {Player}.", card, player);
 			if (!_players.ContainsKey(player))
 			{
-				_log?.LogWarning("Attempt to remove card failed for player: {Player}", player);
+				_log?.LogWarning("Player {Player} not found", player);
 				return false;
 			}
 
@@ -66,13 +65,12 @@ namespace MyGame
 				_log?.LogWarning("Attempt to remove card {Card} failed for player: {Player}", card, player);
 				return false;
 			}
-
 			_players[player].Remove(card);
 			ChangeCardStatus(card, CardStatus.Removed);
 			_log?.LogInformation("Card {Card} removed from player {Player}.", card, player);
 			return true;
 		}
-
+		
 		public void ChangeCardStatus(ICard card, CardStatus status)
 		{
 			card.SetStatus(status);

@@ -1,5 +1,4 @@
 c:\CSharp\Bootcamp\vscode\Day25\02_External and Console\bin\Debug\net7.0\02_External and Console.exe
-c:\CSharp\Bootcamp\vscode\Day25\02_External and Console\bin\Debug\net7.0\02_External and Console.dll.config
 c:\CSharp\Bootcamp\vscode\Day25\02_External and Console\bin\Debug\net7.0\02_External and Console.deps.json
 c:\CSharp\Bootcamp\vscode\Day25\02_External and Console\bin\Debug\net7.0\02_External and Console.runtimeconfig.json
 c:\CSharp\Bootcamp\vscode\Day25\02_External and Console\bin\Debug\net7.0\02_External and Console.dll

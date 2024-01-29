@@ -12,7 +12,7 @@ namespace Log4NetExample
         static void Main(string[] args)
         {
             // Configure log4net using the App.config file
-            XmlConfigurator.Configure(new FileInfo("App.config"));
+            XmlConfigurator.Configure(new FileInfo("log4net.config"));
 
             // Log a message when the program starts
             log.Info("Program started.");

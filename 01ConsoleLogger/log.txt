@@ -4,3 +4,6 @@
 8/11/2023 8:45:17 AM - Program completed.
 9/13/2023 1:28:59 PM - Starting the program...
 9/13/2023 1:28:59 PM - Program completed.
+12/20/2023 9:45:42 AM - Info- Starting the program...
+12/20/2023 9:45:42 AM - Info- Program variable not suitable
+12/20/2023 9:45:42 AM - Info- Program completed.

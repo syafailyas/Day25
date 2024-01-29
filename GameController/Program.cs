@@ -7,9 +7,10 @@ partial class Program
 {
 	static void Main()
 	{
-		//NoLog();
+		NoLog();
 		ManualCreation();
 		DependencyInjection();
+		
 	}
 	static void NoLog()
 	{

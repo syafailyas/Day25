@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "x31pCVyefxblzL0R07KV+QsYQ0HAcUQY5+wNtpYfxlwCa3rk00yvWvk/YhTrnWGNfvDBBZU0Nom7P34SxqdcXQ==",
+  "dgSpecHash": "AcHRQWOQ7qidLpVNtOYFMf9eLAdtZNGQaQH3oIITbunKtEjKfSNNzSWBfAn2LnQpD1mwiXz3i3ms9mo16sZHlg==",
   "success": true,
   "projectFilePath": "C:\\CSharp\\Bootcamp\\vscode\\Day25\\00_NLog\\00_NLog.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\kinar\\.nuget\\packages\\nlog\\5.1.4\\nlog.5.1.4.nupkg.sha512"
+    "C:\\Users\\kinar\\.nuget\\packages\\nlog\\5.1.4\\nlog.5.1.4.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
   ],
   "logs": []
 }
