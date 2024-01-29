@@ -6,6 +6,9 @@ namespace NLogExample
 	class Program
 	{
 		private static readonly Logger logger = LogManager.GetCurrentClassLogger();
+		//Log4Net
+		//private static readonly ILog logger = LogManager.GetLogger(typeof(Program))
+		//XMLConfigurator.Configure("log4net.config")
 
 		static void Main(string[] args)
 		{

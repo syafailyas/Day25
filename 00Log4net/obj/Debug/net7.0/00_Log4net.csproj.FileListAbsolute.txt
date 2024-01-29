@@ -19,3 +19,4 @@ c:\CSharp\Bootcamp\vscode\Day25\00Log4net\obj\Debug\net7.0\refint\00_Log4net.dll
 c:\CSharp\Bootcamp\vscode\Day25\00Log4net\obj\Debug\net7.0\00_Log4net.pdb
 c:\CSharp\Bootcamp\vscode\Day25\00Log4net\obj\Debug\net7.0\00_Log4net.genruntimeconfig.cache
 c:\CSharp\Bootcamp\vscode\Day25\00Log4net\obj\Debug\net7.0\ref\00_Log4net.dll
+c:\CSharp\Bootcamp\vscode\Day25\00Log4net\obj\Debug\net7.0\00_Log4net.sourcelink.json

@@ -19,3 +19,4 @@ c:\CSharp\Bootcamp\vscode\Day25\test\obj\Debug\net7.0\refint\Log4NetRobotArms.dl
 c:\CSharp\Bootcamp\vscode\Day25\test\obj\Debug\net7.0\Log4NetRobotArms.pdb
 c:\CSharp\Bootcamp\vscode\Day25\test\obj\Debug\net7.0\Log4NetRobotArms.genruntimeconfig.cache
 c:\CSharp\Bootcamp\vscode\Day25\test\obj\Debug\net7.0\ref\Log4NetRobotArms.dll
+c:\CSharp\Bootcamp\vscode\Day25\test\obj\Debug\net7.0\Log4NetRobotArms.sourcelink.json

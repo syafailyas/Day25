@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("00_Log4net")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7eb2b3224e1b7a93f69230d5d10786bd4ea50316")]
 [assembly: System.Reflection.AssemblyProductAttribute("00_Log4net")]
 [assembly: System.Reflection.AssemblyTitleAttribute("00_Log4net")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

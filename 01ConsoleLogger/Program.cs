@@ -12,11 +12,11 @@ public class Logger
 			writer.WriteLine($"{DateTime.Now} - Info- {message}");
 		}
 	}
-		public void Warning(string message)
+	public void Warning(string message)
 	{
 		using (StreamWriter writer = new StreamWriter(logFilePath, true))
 		{
-			writer.WriteLine($"{DateTime.Now} - Info- {message}");
+			writer.WriteLine($"{DateTime.Now} - Warning - {message}");
 		}
 	}
 }
