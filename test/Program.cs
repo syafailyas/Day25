@@ -2,17 +2,21 @@
 using log4net.Config;
 
 namespace RobotArms;
+
 public class Program
 {
-	private static readonly ILog log = LogManager.GetLogger(typeof(Program));
+	private static readonly ILog log = LogManager.GetLogger( typeof(Program) );
 
 	static void Main()
 	{
-		XmlConfigurator.Configure(new FileInfo("log4net.config"));
+		XmlConfigurator.Configure( new FileInfo("log4net.config") );
 
 		log.Info("Starting robot arm program");
+
 		int i = 0;
+
 		RobotArm arm = new RobotArm();
+
 		while (i < 100000000)
 		{
 			arm.Connect();
@@ -21,8 +25,10 @@ public class Program
 			arm.MoveTo(10, 10, 10);
 			arm.Release();
 			arm.Disconnect();
-            i++;
-        }
+
+			i++;
+		}
+
 		log.Info("Robot arm program finished");
 	}
 }

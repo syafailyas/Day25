@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9jATICzw+bSIFhFeQlcykZc0yC+eQCTjjB1z0f2e8o0bcH4eQPF/vVNTNPsJsvM1q+dYDYmKChLEV0zz42zD8Q==",
+  "dgSpecHash": "2NJKsLAq5HWaaVceByXbQ519eZaJJNgg6ONXuWfeCD1Q6eSi51tBe3aMFjZWFdpQKInQc3LTkk2z1jMJZS/uHw==",
   "success": true,
-  "projectFilePath": "C:\\CSharp\\Bootcamp\\vscode\\Day25\\01ConsoleLogger\\01ConsoleLogger.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
-  ],
+  "projectFilePath": "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day25\\01ConsoleLogger\\01ConsoleLogger.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

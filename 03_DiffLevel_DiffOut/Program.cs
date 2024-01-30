@@ -7,12 +7,12 @@ namespace Log4NetExample
     class Program
     {
         // Create an instance of the logger
-        private static readonly ILog log = LogManager.GetLogger(typeof(Program));
+        private static readonly ILog log = LogManager.GetLogger( typeof(Program) );
 
         static void Main(string[] args)
         {
             // Configure log4net using the App.config file
-            XmlConfigurator.Configure(new FileInfo("App.config"));
+            XmlConfigurator.Configure( new FileInfo("App.config") );
 
             // Log a message when the program starts
             log.Info("Program started.");

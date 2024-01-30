@@ -15,3 +15,20 @@ c:\CSharp\Bootcamp\vscode\Day25\00_NLog\obj\Debug\net7.0\refint\00_NLog.dll
 c:\CSharp\Bootcamp\vscode\Day25\00_NLog\obj\Debug\net7.0\00_NLog.pdb
 c:\CSharp\Bootcamp\vscode\Day25\00_NLog\obj\Debug\net7.0\00_NLog.genruntimeconfig.cache
 c:\CSharp\Bootcamp\vscode\Day25\00_NLog\obj\Debug\net7.0\ref\00_NLog.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day25\00_NLog\bin\Debug\net7.0\00_NLog.exe
+c:\Users\Batch 8\OneDrive\Desktop\Day25\00_NLog\bin\Debug\net7.0\00_NLog.deps.json
+c:\Users\Batch 8\OneDrive\Desktop\Day25\00_NLog\bin\Debug\net7.0\00_NLog.runtimeconfig.json
+C:\Users\Batch 8\OneDrive\Desktop\Day25\00_NLog\bin\Debug\net7.0\00_NLog.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day25\00_NLog\bin\Debug\net7.0\00_NLog.pdb
+C:\Users\Batch 8\OneDrive\Desktop\Day25\00_NLog\bin\Debug\net7.0\NLog.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day25\00_NLog\obj\Debug\net7.0\00_NLog.csproj.AssemblyReference.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day25\00_NLog\obj\Debug\net7.0\00_NLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\OneDrive\Desktop\Day25\00_NLog\obj\Debug\net7.0\00_NLog.AssemblyInfoInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day25\00_NLog\obj\Debug\net7.0\00_NLog.AssemblyInfo.cs
+C:\Users\Batch 8\OneDrive\Desktop\Day25\00_NLog\obj\Debug\net7.0\00_NLog.csproj.CoreCompileInputs.cache
+c:\Users\Batch 8\OneDrive\Desktop\Day25\00_NLog\obj\Debug\net7.0\00_NLog.csproj.CopyComplete
+C:\Users\Batch 8\OneDrive\Desktop\Day25\00_NLog\obj\Debug\net7.0\00_NLog.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day25\00_NLog\obj\Debug\net7.0\refint\00_NLog.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day25\00_NLog\obj\Debug\net7.0\00_NLog.pdb
+c:\Users\Batch 8\OneDrive\Desktop\Day25\00_NLog\obj\Debug\net7.0\00_NLog.genruntimeconfig.cache
+c:\Users\Batch 8\OneDrive\Desktop\Day25\00_NLog\obj\Debug\net7.0\ref\00_NLog.dll

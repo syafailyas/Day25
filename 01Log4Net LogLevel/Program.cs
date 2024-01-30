@@ -6,11 +6,11 @@ namespace LoggingLevelsExample
 {
     class Program
     {
-        private static readonly ILog log = LogManager.GetLogger(typeof(Program));
+        private static readonly ILog log = LogManager.GetLogger( typeof(Program) );
 
         static void Main(string[] args)
         {
-            XmlConfigurator.Configure(new FileInfo("log4net.config"));
+            XmlConfigurator.Configure( new FileInfo("log4net.config") );
 
             // Log a DEBUG message
             log.Debug("This is a DEBUG message.");

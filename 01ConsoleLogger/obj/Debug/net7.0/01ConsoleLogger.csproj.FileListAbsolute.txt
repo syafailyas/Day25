@@ -13,3 +13,17 @@ c:\CSharp\Bootcamp\vscode\Day25\01ConsoleLogger\obj\Debug\net7.0\refint\01Consol
 c:\CSharp\Bootcamp\vscode\Day25\01ConsoleLogger\obj\Debug\net7.0\01ConsoleLogger.pdb
 c:\CSharp\Bootcamp\vscode\Day25\01ConsoleLogger\obj\Debug\net7.0\01ConsoleLogger.genruntimeconfig.cache
 c:\CSharp\Bootcamp\vscode\Day25\01ConsoleLogger\obj\Debug\net7.0\ref\01ConsoleLogger.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day25\01ConsoleLogger\bin\Debug\net7.0\01ConsoleLogger.exe
+c:\Users\Batch 8\OneDrive\Desktop\Day25\01ConsoleLogger\bin\Debug\net7.0\01ConsoleLogger.deps.json
+c:\Users\Batch 8\OneDrive\Desktop\Day25\01ConsoleLogger\bin\Debug\net7.0\01ConsoleLogger.runtimeconfig.json
+C:\Users\Batch 8\OneDrive\Desktop\Day25\01ConsoleLogger\bin\Debug\net7.0\01ConsoleLogger.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day25\01ConsoleLogger\bin\Debug\net7.0\01ConsoleLogger.pdb
+C:\Users\Batch 8\OneDrive\Desktop\Day25\01ConsoleLogger\obj\Debug\net7.0\01ConsoleLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\OneDrive\Desktop\Day25\01ConsoleLogger\obj\Debug\net7.0\01ConsoleLogger.AssemblyInfoInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day25\01ConsoleLogger\obj\Debug\net7.0\01ConsoleLogger.AssemblyInfo.cs
+C:\Users\Batch 8\OneDrive\Desktop\Day25\01ConsoleLogger\obj\Debug\net7.0\01ConsoleLogger.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day25\01ConsoleLogger\obj\Debug\net7.0\01ConsoleLogger.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day25\01ConsoleLogger\obj\Debug\net7.0\refint\01ConsoleLogger.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day25\01ConsoleLogger\obj\Debug\net7.0\01ConsoleLogger.pdb
+c:\Users\Batch 8\OneDrive\Desktop\Day25\01ConsoleLogger\obj\Debug\net7.0\01ConsoleLogger.genruntimeconfig.cache
+c:\Users\Batch 8\OneDrive\Desktop\Day25\01ConsoleLogger\obj\Debug\net7.0\ref\01ConsoleLogger.dll

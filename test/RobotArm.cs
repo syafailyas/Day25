@@ -1,9 +1,10 @@
 using log4net;
+
 namespace RobotArms;
 
 public class RobotArm
 {
-	private static readonly ILog log = LogManager.GetLogger(typeof(RobotArm));
+	private static readonly ILog log = LogManager.GetLogger( typeof(RobotArm) );
 
 	public void Connect()
 	{

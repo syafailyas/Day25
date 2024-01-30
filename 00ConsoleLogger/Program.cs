@@ -10,13 +10,12 @@ namespace LoggingIntroduction
 
 			int a = 10;
 			int b = 20;
-			
+
 			Console.WriteLine($"a: {a}, b: {b}");
 
 			int sum = a + b;
 
 			Console.WriteLine($"The sum of a and b is: {sum}");
-
 			Console.WriteLine("Program completed.");
 		}
 	}

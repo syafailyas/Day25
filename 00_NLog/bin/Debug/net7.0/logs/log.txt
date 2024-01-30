@@ -14,3 +14,7 @@
 2023-09-13 14:04:31.6795 Fatal FATAL MESSAGE 
 2023-09-13 14:04:31.6795 Info The result of the calculation is: 50 
 2023-09-13 14:04:31.6795 Info Program finished. 
+2024-01-30 07:58:34.8054 Info Program started. 
+2024-01-30 07:58:34.8226 Fatal FATAL MESSAGE 
+2024-01-30 07:58:34.8226 Info The result of the calculation is: 50 
+2024-01-30 07:58:34.8226 Info Program finished. 

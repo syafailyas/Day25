@@ -1,14 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3OyO7+hPZezsenqLC8Aefvo+hzdOJ9ckiP9hOMxl4BosuGEO1kkYALdXt+pzZePgncSBLWsEFNoQ7hINAKyypQ==",
+  "dgSpecHash": "ntmYCSMPpc/akjXXdYgVRsApi7kJmnjQZu4NcR/3VQ37hlSeTx8eUn0nLgLt6JEI0lsPncIeuydTOTVShtZieg==",
   "success": true,
-  "projectFilePath": "C:\\CSharp\\Bootcamp\\vscode\\Day25\\01_ImportConfig\\01_ImportConfig.csproj",
+  "projectFilePath": "c:\\Users\\Batch 8\\OneDrive\\Desktop\\Day25\\01_ImportConfig\\01_ImportConfig.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\kinar\\.nuget\\packages\\nlog\\5.1.4\\nlog.5.1.4.nupkg.sha512",
-    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\kinar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+    "C:\\Users\\Batch 8\\.nuget\\packages\\nlog\\5.1.4\\nlog.5.1.4.nupkg.sha512"
   ],
   "logs": []
 }

@@ -5,7 +5,7 @@ namespace NLogTest
 	public class RobotArm
 	{
 		private static Logger logger = LogManager.GetCurrentClassLogger();
-		
+
 		public void Connect()
 		{
 			logger.Debug("Connecting to robot arm");

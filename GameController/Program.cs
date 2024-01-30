@@ -10,8 +10,8 @@ partial class Program
 		NoLog();
 		ManualCreation();
 		DependencyInjection();
-		
 	}
+
 	static void NoLog()
 	{
 		IPlayer player = new Player("player1");
@@ -19,5 +19,3 @@ partial class Program
 		GameController game = new GameController(player, board);
 	}
 }
-
-

@@ -15,3 +15,11 @@ c:\CSharp\Bootcamp\vscode\Day25\01_ImportConfig\obj\Debug\net7.0\refint\01_Impor
 c:\CSharp\Bootcamp\vscode\Day25\01_ImportConfig\obj\Debug\net7.0\01_ImportConfig.pdb
 c:\CSharp\Bootcamp\vscode\Day25\01_ImportConfig\obj\Debug\net7.0\01_ImportConfig.genruntimeconfig.cache
 c:\CSharp\Bootcamp\vscode\Day25\01_ImportConfig\obj\Debug\net7.0\ref\01_ImportConfig.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day25\01_ImportConfig\obj\Debug\net7.0\01_ImportConfig.csproj.AssemblyReference.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day25\01_ImportConfig\obj\Debug\net7.0\01_ImportConfig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 8\OneDrive\Desktop\Day25\01_ImportConfig\obj\Debug\net7.0\01_ImportConfig.AssemblyInfoInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day25\01_ImportConfig\obj\Debug\net7.0\01_ImportConfig.AssemblyInfo.cs
+C:\Users\Batch 8\OneDrive\Desktop\Day25\01_ImportConfig\obj\Debug\net7.0\01_ImportConfig.csproj.CoreCompileInputs.cache
+C:\Users\Batch 8\OneDrive\Desktop\Day25\01_ImportConfig\obj\Debug\net7.0\01_ImportConfig.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day25\01_ImportConfig\obj\Debug\net7.0\refint\01_ImportConfig.dll
+C:\Users\Batch 8\OneDrive\Desktop\Day25\01_ImportConfig\obj\Debug\net7.0\01_ImportConfig.pdb
